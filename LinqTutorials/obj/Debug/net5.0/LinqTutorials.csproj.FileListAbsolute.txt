@@ -13,3 +13,4 @@ D:\APBD\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\refint\LinqTutorials.dll
 D:\APBD\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.pdb
 D:\APBD\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.genruntimeconfig.cache
 D:\APBD\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\ref\LinqTutorials.dll
+D:\APBD\LinqCwiczenia\LinqTutorials\obj\Debug\net5.0\LinqTutorials.sourcelink.json
